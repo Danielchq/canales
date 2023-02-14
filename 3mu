@@ -1,27 +1,32 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://img2.freepng.es/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg", CARTOON NETWORK (ʜᴅ)
-http://10.100.101.93:8081/1.ogg
+http://192.168.1.100:8081/1.ogg
 
 #EXTINF:0 type="stream" channelId="2" name="NICKELODEON" group="INFANTIL" logo="https://img2.freepng.es/20181115/vzk/kisspng-nickelodeon-logo-drawing-cartoon-network-red-nickelodeon-5bed6e2077cc11.1589673515422868804907.jpg", NICKELODEON
-http://10.100.101.93:8084/1.ogg
+http://192.168.1.100:8084/1.ogg
 
 #EXTINF:0 type="stream" channelId="3" name="COL: CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", CARACOL (ʜᴅ)
-http://10.100.101.93:8080/1.ogg
+http://192.168.1.100:8080/1.ogg
 
 #EXTINF:0 type="stream" channelId="4" name="COL: RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN (ʜᴅ)
-http://10.100.101.93:8082/1.ogg
+http://192.168.1.100:8082/1.ogg
 
 #EXTINF:0 type="stream" channelId="5" name="COL: LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" tvg-country="co", LA KALLE (ʜᴅ)
-http://10.100.101.93:8085/1.ogg
+http://192.168.1.100:8085/1.ogg
 
 #EXTINF:0 type="stream" channelId="6" name="COL: CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://https://static.wikia.nocookie.net/logopedia/images/2/28/Definitive-logo-Canal-Uno-2017.svg/revision/latest/scale-to-width-down/1000?cb=20210426210133&path-prefix=es" tvg-country="co", CANAL 1 (ʜᴅ)
-http://10.100.101.93:8083/1.ogg
+http://192.168.1.100:8083/1.ogg
 
 #EXTINF:0 type="stream" channelId="7" name="COL: CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-country="co", CANAL 13(ʜᴅ)
-http://10.100.100.112:8086/1.ogg
+http://192.168.1.101:8086/1.ogg
 
 #EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/3/35/Se%C3%B1al_Institucional_logo.svg" tvg-country="co", CANAL INSTITUCIONAL (ʜᴅ)
-http://10.100.100.112:8087/1.ogg
+http://192.168.1.101:8087/1.ogg
+
+
+
+
+
 
 
 
