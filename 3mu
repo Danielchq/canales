@@ -23,6 +23,8 @@ http://192.168.1.101:8086/1.ogg
 #EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/3/35/Se%C3%B1al_Institucional_logo.svg" tvg-country="co", CANAL INSTITUCIONAL (ʜᴅ)
 http://192.168.1.101:8087/1.ogg
 
+#EXTINF:0 type="stream" channelId="6" name="COL: ANIME  (ʜᴅ)" group="COLOMBIA" logo="https://i.pinimg.com/originals/58/4f/06/584f0646a2a47d74e3a59ab6b2d885a2.png" tvg-country="co", ANIME (ʜᴅ)
+http://192.168.1.109:8088/1.ogg
 
 
 
