@@ -31,8 +31,7 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-id="131" tvg-name="Telecafe" tvg-logo="https://lh3.googleusercontent.com/-CT9sPrB8J8A/XzgikOpkjvI/AAAAAAAA4Ys/sPfhmQL0xScsvbzYN_E08QnzP0FTD4dwwCK8BGAsYHg/s0/2020-08-15.png", Telecafe | CO
-https://liveingesta118.cdnmedia.tv/telecafelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión | CO
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 
 
