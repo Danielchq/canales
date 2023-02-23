@@ -39,3 +39,6 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://lh3.googleusercontent.com/-IUpSSVnzrws/Xzgi51GivnI/AAAAAAAA4Y8/nHmUFN6uZ7oB-uQxgHaASZT9quRePknMwCK8BGAsYHg/s0/2020-08-15.png", Telepacífico | CO
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV | CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
