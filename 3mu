@@ -20,7 +20,7 @@ http://192.168.1.100:8083/1.ogg
 #EXTINF:0 type="stream" channelId="4" name="COL: RCN2 (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN2 (ʜᴅ)
 http://192.168.1.101:8083/1.ogg
 
-#EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/3/35/Se%C3%B1al_Institucional_logo.svg" tvg-country="co", CANAL INSTITUCIONAL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (ʜᴅ)
 http://192.168.1.101:8087/1.ogg
 
 
