@@ -54,3 +54,6 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png", Kanade TV | CL
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies * | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
