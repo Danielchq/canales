@@ -9,7 +9,7 @@ http://192.168.1.100:8084/1.ogg
 http://192.168.1.100:8080/1.ogg
 
 #EXTINF:0 type="stream" channelId="4" name="COL: RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN (ʜᴅ)
-http://192.168.1.100:8082/1.ogg
+http://192.168.1.101:8082/1.ogg
 
 #EXTINF:0 type="stream" channelId="5" name="COL: LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" tvg-country="co", LA KALLE (ʜᴅ)
 http://192.168.1.100:8085/1.ogg
@@ -17,18 +17,11 @@ http://192.168.1.100:8085/1.ogg
 #EXTINF:0 type="stream" channelId="6" name="COL: CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://https://static.wikia.nocookie.net/logopedia/images/2/28/Definitive-logo-Canal-Uno-2017.svg/revision/latest/scale-to-width-down/1000?cb=20210426210133&path-prefix=es" tvg-country="co", CANAL 1 (ʜᴅ)
 http://192.168.1.100:8083/1.ogg
 
-#EXTINF:0 type="stream" channelId="7" name="COL: CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_Trece_logo.svg" tvg-country="co", CANAL 13(ʜᴅ)
-http://192.168.1.101:8086/1.ogg
+#EXTINF:0 type="stream" channelId="4" name="COL: RCN2 (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN2 (ʜᴅ)
+http://192.168.1.101:8083/1.ogg
 
 #EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://https://upload.wikimedia.org/wikipedia/commons/3/35/Se%C3%B1al_Institucional_logo.svg" tvg-country="co", CANAL INSTITUCIONAL (ʜᴅ)
 http://192.168.1.101:8087/1.ogg
-
-#EXTINF:0 type="stream" channelId="6" name="COL: ANIME  (ʜᴅ)" group="COLOMBIA" logo="https://i.pinimg.com/originals/58/4f/06/584f0646a2a47d74e3a59ab6b2d885a2.png" tvg-country="co", ANIME (ʜᴅ)
-http://192.168.1.109:8088/1.ogg
-
-
-#EXTINF:0 type="stream" channelId="10" name="COL: CGTN ESPAÑOL  (ʜᴅ)" group="COLOMBIA" logo="https://yt3.googleusercontent.com/ytc/AL5GRJVjtKMWpY-iI93tXWiXJLrxe1XDlKSYo4v2Tpy94A=s900-c-k-c0x00ffffff-no-rj" tvg-country="co",CGTN ESPAÑOL (ʜᴅ)
-http://192.168.1.101:8089/1.ogg
 
 
 
