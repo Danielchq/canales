@@ -34,4 +34,5 @@ https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión | CO
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
