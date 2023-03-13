@@ -48,7 +48,7 @@ http://00/1.ogg
 http://00/1.ogg
 
 #EXTINF:0 type="stream" channelId="9" name="COL: TNT (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180605/sy/kisspng-tnt-television-channel-television-show-tv-logos-5b16c95239fa92.7531588715282199862375.jpg", TNT (ʜᴅ)
-http://00/1.ogg
+http://192.168.201.12:8080/1.ogg
 
 #EXTINF:0 type="stream" channelId="9" name="COL: SPACE (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/162/645/png-transparent-space-television-channel-streaming-television-turner-broadcasting-system-television-channel-television-text-trademark.png", SPACE (ʜᴅ)
 http://00/1.ogg
