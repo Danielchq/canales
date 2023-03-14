@@ -30,7 +30,7 @@ http://192.168.201.11:8083/1.ogg
 http://192.168.201.10:8080/1.ogg
 
 #EXTINF:0 type="stream" channelId="8" name="COL: WIN SPOR+ (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", WIN SPOR+ (ʜᴅ)
-http://00/1.ogg
+http://192.168.201.12:8081/1.ogg
 
 #EXTINF:0 type="stream" channelId="8" name="COL: ANIMAL PLANET (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/640px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET (ʜᴅ)
 http://0/1.ogg
