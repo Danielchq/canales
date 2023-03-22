@@ -54,5 +54,5 @@ http://192.168.201.12:8080/1.ogg
 http://00/1.ogg
 
 #EXTINF:0 type="stream" channelId="9" name="COL: HTV (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV (ʜᴅ)
-http://00/1.ogg
+http://000/1.ogg
 
