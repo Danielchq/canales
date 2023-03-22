@@ -3,7 +3,7 @@
 http://192.168.201.11:8082/1.ogg
 
 #EXTINF:0 type="stream" channelId="2" name="NICKELODEON" group="INFANTIL" logo="https://img2.freepng.es/20181115/vzk/kisspng-nickelodeon-logo-drawing-cartoon-network-red-nickelodeon-5bed6e2077cc11.1589673515422868804907.jpg", NICKELODEON
-http://192.168.201.11:8080/1.ogg
+http://192.168.201.12:8081/1.ogg
 
 #EXTINF:0 type="stream" channelId="3" name="COL: CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", CARACOL (ʜᴅ)
 http://192.168.201.10:8082/1.ogg
