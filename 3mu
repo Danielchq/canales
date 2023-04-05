@@ -70,7 +70,7 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 
 
 #EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png", La Despechada TV | CO
-http://192.168.201.10:8085/1.ogg
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
