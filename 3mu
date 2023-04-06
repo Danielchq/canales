@@ -40,7 +40,8 @@ http://192.168.201.12:8080/1.ogg
 #EXTINF:-1 tvg-id="1015" tvg-name="PELI KIDS" tvg-logo="https://e7.pngegg.com/pngimages/795/661/png-clipart-filmmaking-child-video-production-family-film-filmmaking.png", PELI KIDS | CL
 http://192.168.201.12:8085/1.ogg
 
-
+#EXTINF:-1 tvg-id="1016" tvg-name="CINEMAX" tvg-logo="https://w7.pngwing.com/pngs/153/31/png-transparent-netflix-macos-bigsur-icon.png", CINEMAX * | CL
+http://192.168.201.12:8086/1.ogg
 
 
 
