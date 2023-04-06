@@ -26,7 +26,7 @@ http://192.168.201.10:8080/1.ogg
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: TNT (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180605/sy/kisspng-tnt-television-channel-television-show-tv-logos-5b16c95239fa92.7531588715282199862375.jpg", TNT (ʜᴅ)
-http://192.168.201.12:8080/1.ogg
+http://192.168.201.11:8083/1.ogg
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: CANAL TRECE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_13_Colombia_2005_1.svg/revision/latest/scale-to-width-down/200?cb=20210425220814&path-prefix=es",CANAL TRECE (ʜᴅ)
