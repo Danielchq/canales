@@ -22,7 +22,7 @@ http://192.168.201.10:8084/1.ogg
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", DISCOVERY CHANNEL (ʜᴅ)
-http://192.168.201.10:8080/1.ogg
+
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: TNT (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180605/sy/kisspng-tnt-television-channel-television-show-tv-logos-5b16c95239fa92.7531588715282199862375.jpg", TNT (ʜᴅ)
@@ -43,6 +43,8 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1016" tvg-name="CINEMAX" tvg-logo="https://w7.pngwing.com/pngs/153/31/png-transparent-netflix-macos-bigsur-icon.png", CINEMAX * | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCl
 
+#EXTINF:0 type="stream" channelId="9" name="COL: FOX SPORT3 (ʜᴅ)" group="COLOMBIA" logo="https://www.televvd.com/wp-content/uploads/2021/03/fox-sports-3.png", FOX SPORT3 (ʜᴅ)
+http://192.168.201.10:8080/1.ogg
 
 
 
