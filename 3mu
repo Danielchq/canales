@@ -37,16 +37,15 @@ http://192.168.201.10:8083/1.ogg
 http://192.168.201.12:8080/1.ogg
 
 
-#EXTINF:-1 tvg-id="1015" tvg-name="PELI KIDS" tvg-logo="https://e7.pngegg.com/pngimages/795/661/png-clipart-filmmaking-child-video-production-family-film-filmmaking.png", PELI KIDS | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1016" tvg-name="CINEMAX" tvg-logo="https://w7.pngwing.com/pngs/153/31/png-transparent-netflix-macos-bigsur-icon.png", CINEMAX * | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCl
+
+
 
 #EXTINF:0 type="stream" channelId="9" name="COL: FOX SPORT3 (ʜᴅ)" group="COLOMBIA" logo="https://www.televvd.com/wp-content/uploads/2021/03/fox-sports-3.png", FOX SPORT3 (ʜᴅ)
 http://192.168.201.10:8080/1.ogg
 
-
+#EXTINF:-1 tvg-id="1285" tvg-name="La Despechada TV" tvg-logo="https://i2.paste.pics/f3abe4415e90765f85d20737dcfdb006.png", La Despechada TV | CO
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
