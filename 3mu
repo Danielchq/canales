@@ -18,7 +18,7 @@ http://192.168.201.11:8084/1.ogg
 http://192.168.201.10:8081/1.ogg
 
 #EXTINF:0 type="stream" channelId="6" name="COL: CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" tvg-country="co", CANAL 1 (ʜᴅ)
-http://192.168.201.10:8084/1.ogg
+http://192.168.201.12:8080/1.ogg
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", DISCOVERY CHANNEL (ʜᴅ)
@@ -33,8 +33,7 @@ http://192.168.201.11:8083/1.ogg
 http://192.168.201.10:8083/1.ogg
 
 
-#EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (ʜᴅ)
-http://192.168.201.12:8080/1.ogg
+
 
 
 #EXTINF:0 type="stream" channelId="8" name="COL: CANAL  INSTITUCIONAL (v)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (V)
