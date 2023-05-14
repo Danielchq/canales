@@ -11,41 +11,29 @@ http://192.168.201.10:8081/1.ogg
 #EXTINF:0 type="stream" channelId="4" name="COL: RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN (ʜᴅ)
 http://192.168.201.10:8080/1.ogg
 
-#EXTINF:0 type="stream" channelId="4" name="COL:NAT GEO (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" tvg-country="co", NAT GEO (ʜᴅ)
-http://192.168.201.10:8086/1.ogg
+
 
 #EXTINF:0 type="stream" channelId="5" name="COL: LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" tvg-country="co", LA KALLE (ʜᴅ)
 http://192.168.201.10:8085/1.ogg
 
 #EXTINF:0 type="stream" channelId="6" name="COL: CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" tvg-country="co", CANAL 1 (ʜᴅ)
-http://192.168.201.11:8080/1.ogg
+http://192.168.201.12:8080/1.ogg
 
 #EXTINF:0 type="stream" channelId="9" name="COL: TNT (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180605/sy/kisspng-tnt-television-channel-television-show-tv-logos-5b16c95239fa92.7531588715282199862375.jpg", TNT (ʜᴅ)
-http://192.168.201.11:8081/1.ogg
+http://192.168.201.10:8086/1.ogg
 
 
 #EXTINF:0 type="stream" channelId="9" name="COL: CANAL TRECE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_13_Colombia_2005_1.svg/revision/latest/scale-to-width-down/200?cb=20210425220814&path-prefix=es",CANAL TRECE (ʜᴅ)
 http://192.168.201.10:8082/1.ogg
 
-#EXTINF:0 type="stream" channelId="9" name="COL: DISNEY JR (ʜᴅ)" group="COLOMBIA" logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png",DISNEY JR (ʜᴅ)
-http://192.168.201.11:8082/1.ogg
 
-#EXTINF:0 type="stream" channelId="8" name="COL: CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (ʜᴅ)
-http://192.168.201.11:8083/1.ogg
+#EXTINF:0 type="stream" channelId="9" name="COL: DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", DISCOVERY CHANNEL (ʜᴅ)
+http://192.168.201.12:8081/1.ogg
+
+#EXTINF:0 type="stream" channelId="9" name="COL: FOX SPORT3 (ʜᴅ)" group="COLOMBIA" logo="https://www.televvd.com/wp-content/uploads/2021/03/fox-sports-3.png", FOX SPORT3 (ʜᴅ)
+http://192.168.201.12:8082/1.ogg
 
 
-
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png", Amordiscos TV | CO
-https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1015" tvg-name="PELI KIDS" tvg-logo="https://e7.pngegg.com/pngimages/795/661/png-clipart-filmmaking-child-video-production-family-film-filmmaking.png", PELI KIDS | CL
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1016" tvg-name="CINEMAX" tvg-logo="https://w7.pngwing.com/pngs/153/31/png-transparent-netflix-macos-bigsur-icon.png", CINEMAX * | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCl
 
 
 
