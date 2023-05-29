@@ -6,7 +6,7 @@ http://192.168.201.2:8088/1.ogg
 http://192.168.201.2:8089/1.ogg
 
 #EXTINF:0 type="stream" channelId="3" name="COL: 03 DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", 03 DISCOVERY CHANNEL (ʜᴅ)
-http://192.168.201.3:8082/1.ogg
+http://192.168.201.3:8081/1.ogg
 
 #EXTINF:0 type="stream" channelId="4" name="COL: 04 NAT GEO (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" tvg-country="co", 04 NAT GEO (ʜᴅ)
 http://192.168.201.3:8086/1.ogg
