@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1" name="COL: 01 CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", CARACOL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="1" name="COL: 01 CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", 01 CARACOL (ʜᴅ)
 http://192.168.201.2:8088/1.ogg
 
-#EXTINF:0 type="stream" channelId="2" name="COL: 02 RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", RCN (ʜᴅ)
+#EXTINF:0 type="stream" channelId="2" name="COL: 02 RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", 02 RCN (ʜᴅ)
 http://192.168.201.2:8089/1.ogg
 
-#EXTINF:0 type="stream" channelId="3" name="COL: 03 DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", DISCOVERY CHANNEL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="3" name="COL: 03 DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", 03 DISCOVERY CHANNEL (ʜᴅ)
 http://192.168.201.3:8082/1.ogg
 
-#EXTINF:0 type="stream" channelId="4" name="COL: 04 NAT GEO (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" tvg-country="co", NAT GEO (ʜᴅ)
+#EXTINF:0 type="stream" channelId="4" name="COL: 04 NAT GEO (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" tvg-country="co", 04 NAT GEO (ʜᴅ)
 http://192.168.201.3:8086/1.ogg
 
-#EXTINF:0 type="stream" channelId="5" name="COL: 05 STAR CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg", STAR CHANNEL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="5" name="COL: 05 STAR CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg", 05 STAR CHANNEL (ʜᴅ)
 http://192.168.201.3:8084/1.ogg
 
-#EXTINF:0 type="stream" channelId="6" name="COL: 06 FX (ʜᴅ)" group="COLOMBIA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAlw3eX5xq1ewJXiiDcmhVMsWAZ9_qc5I0Q&usqp=CAU", FX (ʜᴅ)
+#EXTINF:0 type="stream" channelId="6" name="COL: 06 FX (ʜᴅ)" group="COLOMBIA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAlw3eX5xq1ewJXiiDcmhVMsWAZ9_qc5I0Q&usqp=CAU", 06 FX (ʜᴅ)
 http://192.168.201.3:8085/1.ogg
 
-#EXTINF:0 type="stream" channelId="7" name="COL: 07 WARNER CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png", WARNER CHANNEL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="7" name="COL: 07 WARNER CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png", 07 WARNER CHANNEL (ʜᴅ)
 http://192.168.201.2:8087/1.ogg
 
-#EXTINF:0 type="stream" channelId="8" name="COL: 08 DISNEY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/781/97/png-transparent-disney-channel-television-channel-the-walt-disney-company-disney-xd-tv-news-television-text-logo.png", DISNEY CHANNEL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="8" name="COL: 08 DISNEY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/781/97/png-transparent-disney-channel-television-channel-the-walt-disney-company-disney-xd-tv-news-television-text-logo.png", 08 DISNEY CHANNEL (ʜᴅ)
 http://192.168.201.3:8082/1.ogg
 
-#EXTINF:0 type="stream" channelId="9" name="COL: 09 PASIONES (ʜᴅ)" group="COLOMBIA" logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png", PASIONES (ʜᴅ)
+#EXTINF:0 type="stream" channelId="9" name="COL: 09 PASIONES (ʜᴅ)" group="COLOMBIA" logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png", 09 PASIONES (ʜᴅ)
 http://192.168.201.3:8083/1.ogg
 
-#EXTINF:0 type="stream" channelId="10" name="COL: 10 WIN SPOR+ (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", WIN SPOR+ (ʜᴅ)
+#EXTINF:0 type="stream" channelId="10" name="COL: 10 WIN SPOR+ (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", 10 WIN SPOR+ (ʜᴅ)
 http://192.168.201.3:8080/1.ogg
 
