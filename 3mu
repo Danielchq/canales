@@ -44,6 +44,8 @@ https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://lh3.googleusercontent.com/-BK2illtLNdw/Xzgh2FS7TtI/AAAAAAAA4YM/gnbmSqIJG5wCwVJ2gUG0NPQgbo1axWmcwCK8BGAsYHg/s0/2020-08-15.jpg", Cosmovisión | CO
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 
 
 
