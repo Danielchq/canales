@@ -59,4 +59,5 @@ https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica | CO
 https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png", Tele Familia | CO
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
