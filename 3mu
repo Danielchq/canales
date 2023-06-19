@@ -1,32 +1,29 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="0" name="COL: 01 CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", 01 CARACOL (ʜᴅ)
-http://192.168.201.2:8088/1.ogg
-
-#EXTINF:0 type="stream" channelId="2" name="COL: 02 RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", 02 RCN (ʜᴅ)
-http://192.168.201.2:8089/1.ogg
-
-#EXTINF:0 type="stream" channelId="3" name="COL: 03 DISCOVERY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/292/238/png-transparent-logo-discovery-channel-discovery-inc-graphics-mtv-hits-idents-text-logo-area.png", 03 DISCOVERY CHANNEL (ʜᴅ)
-http://192.168.201.3:8081/1.ogg
-
-#EXTINF:0 type="stream" channelId="4" name="COL: 04 NAT GEO (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png" tvg-country="co", 04 NAT GEO (ʜᴅ)
-http://192.168.201.3:8086/1.ogg
-
-#EXTINF:0 type="stream" channelId="5" name="COL: 05 STAR CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://elcomercio.pe/resizer/3aspnZC__0mIEzEVI7-AwYPTXro=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KMAWWZJ7NBF2DNBSD5XW6X2BFU.jpg", 05 STAR CHANNEL (ʜᴅ)
-http://192.168.201.3:8084/1.ogg
-
-#EXTINF:0 type="stream" channelId="6" name="COL: 06 FX (ʜᴅ)" group="COLOMBIA" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGAlw3eX5xq1ewJXiiDcmhVMsWAZ9_qc5I0Q&usqp=CAU", 06 FX (ʜᴅ)
 http://192.168.201.3:8085/1.ogg
 
-#EXTINF:0 type="stream" channelId="7" name="COL: 07 WARNER CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo.png", 07 WARNER CHANNEL (ʜᴅ)
-http://192.168.201.2:8087/1.ogg
+#EXTINF:0 type="stream" channelId="2" name="COL: 02 RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", 02 RCN (ʜᴅ)
+http://192.168.201.3:8084/1.ogg
 
-#EXTINF:0 type="stream" channelId="8" name="COL: 08 DISNEY CHANNEL (ʜᴅ)" group="COLOMBIA" logo="https://w7.pngwing.com/pngs/781/97/png-transparent-disney-channel-television-channel-the-walt-disney-company-disney-xd-tv-news-television-text-logo.png", 08 DISNEY CHANNEL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="3" name="COL: 03 SEÑAL COLOMBIA (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SEÑAL COLOMBIA (ʜᴅ)
+http://192.168.201.3:8081/1.ogg
+
+#EXTINF:0 type="stream" channelId="4" name="COL: 04 LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" tvg-country="co", LA KALLE (ʜᴅ)
+http://192.168.201.3:8086/1.ogg
+
+
+
+
+
+
+
+#EXTINF:0 type="stream" channelId="8" name="COL: 08 CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (ʜᴅ)
 http://192.168.201.3:8082/1.ogg
 
-#EXTINF:0 type="stream" channelId="9" name="COL: 09 PASIONES (ʜᴅ)" group="COLOMBIA" logo="https://1.bp.blogspot.com/-yMmjBYqcyx4/Xyz9H_Mm16I/AAAAAAAAAu8/-gjkAmYda4AhuMemziNObIZZzy6_YbDhACNcBGAsYHQ/s640/PasionesLogo.png", 09 PASIONES (ʜᴅ)
+#EXTINF:0 type="stream" channelId="9" name="COL: 09 CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" tvg-country="co", CANAL 1 (ʜᴅ)
 http://192.168.201.3:8083/1.ogg
 
-#EXTINF:0 type="stream" channelId="10" name="COL: 10 WIN SPOR+ (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png", 10 WIN SPOR+ (ʜᴅ)
+#EXTINF:0 type="stream" channelId="10" name="COL: 10 CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_13_Colombia_2005_1.svg/revision/latest/scale-to-width-down/200?cb=20210425220814&path-prefix=es", 10 CANAL 13 (ʜᴅ)
 http://192.168.201.3:8080/1.ogg
 
 #EXTINF:-1 tvg-id="471" tvg-name="Memorias TV" tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png", Memorias TV * | PE
@@ -35,11 +32,9 @@ https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://lh3.googleusercontent.com/-Qtn4FPkMhMI/XzggR9q6ebI/AAAAAAAA4XU/egrRXsJN-hYw04hboMtcwXBDGhCufLQjACK8BGAsYHg/s0/2020-08-15.jpg", Cali TV | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="120" tvg-name="Canal Institucional" tvg-logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", Canal Institucional | CO
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://lh3.googleusercontent.com/-dPA6bh64tcI/XzghIjDoh4I/AAAAAAAA4X0/BDRF4nE5JcMLVsGEmJFyE_uSlqcmK5QmwCK8BGAsYHg/s0/2020-08-15.png", Canal Trece | CO
-https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-id="122" tvg-name="Canal Visión Dorada" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg", Canal Visión Dorada | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
