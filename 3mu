@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="0" name="COL: 01 WINSPORT + (ʜᴅ)" group="COLOMBIA" logo="https://diem369.com/cdn/shop/files/Win.png?v=1705024371" tvg-country="co", 01 CARACOL (ʜᴅ)
+#EXTINF:0 type="stream" channelId="0" name="COL:  WINSPORT + (ʜᴅ)" group="COLOMBIA" logo="https://diem369.com/cdn/shop/files/Win.png?v=1705024371" tvg-country="co", WINSPORT + (ʜᴅ)
 http://38.191.43.132:8086/1.ogg
 
 
