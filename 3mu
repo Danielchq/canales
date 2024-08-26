@@ -1,43 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="0" name="COL: 01 CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180525/fbg/kisspng-caracol-televisin-caracol-tv-internacional-telev-5b07abc129c973.8600765715272293771712.jpg" tvg-country="co", 01 CARACOL (ʜᴅ)
-http://192.168.201.3:8085/1.ogg
-
-#EXTINF:0 type="stream" channelId="2" name="COL: 02 RCN (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180614/fxg/kisspng-rcn-televisin-rcn-nuestra-tele-television-channe-tele-5b2246dfdb3e33.106579421528973023898.jpg" tvg-country="co", 02 RCN (ʜᴅ)
-http://192.168.201.3:8084/1.ogg
-
-#EXTINF:0 type="stream" channelId="3" name="COL: 03 SEÑAL COLOMBIA (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SEÑAL COLOMBIA (ʜᴅ)
-http://192.168.201.3:8081/1.ogg
-
-#EXTINF:0 type="stream" channelId="4" name="COL: 04 LA KALLE (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Lakallecol.png/revision/latest?cb=20170521015524" tvg-country="co", LA KALLE (ʜᴅ)
-http://192.168.201.3:8086/1.ogg
-
-#EXTINF:0 type="stream" channelId="9" name="COL: TNT (ʜᴅ)" group="COLOMBIA" logo="https://img2.freepng.es/20180605/sy/kisspng-tnt-television-channel-television-show-tv-logos-5b16c95239fa92.7531588715282199862375.jpg", TNT (ʜᴅ)
-http://192.168.201.5:8081/1.ogg
-
-#EXTINF:0 type="stream" channelId="1" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://img2.freepng.es/20180402/gde/kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg", CARTOON NETWORK (ʜᴅ)
-http://192.168.201.5:8080/1.ogg
-
-
-
-
-
-#EXTINF:0 type="stream" channelId="8" name="COL: 08 CANAL INSTITUCIONAL (ʜᴅ)" group="COLOMBIA" logo="https://lh3.googleusercontent.com/-7A8sit9InV0/XzghOGQu8QI/AAAAAAAA4X4/9FutdpnVfwg0pZ6e258mTpljbB1RtHvagCK8BGAsYHg/s0/2020-08-15.png", CANAL INSTITUCIONAL (ʜᴅ)
-http://192.168.201.3:8082/1.ogg
-
-#EXTINF:0 type="stream" channelId="9" name="COL: 09 CANAL 1 (ʜᴅ)" group="COLOMBIA" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/2086px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" tvg-country="co", CANAL 1 (ʜᴅ)
-http://192.168.201.3:8083/1.ogg
-
-#EXTINF:0 type="stream" channelId="10" name="COL: 10 CANAL 13 (ʜᴅ)" group="COLOMBIA" logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Canal_13_Colombia_2005_1.svg/revision/latest/scale-to-width-down/200?cb=20210425220814&path-prefix=es", 10 CANAL 13 (ʜᴅ)
-http://192.168.201.3:8080/1.ogg
-
-
-1
-
-
-
-
-
-
+#EXTINF:0 type="stream" channelId="0" name="COL: 01 WINSPORT + (ʜᴅ)" group="COLOMBIA" logo="https://diem369.com/cdn/shop/files/Win.png?v=1705024371" tvg-country="co", 01 CARACOL (ʜᴅ)
+http://38.191.43.132:8086/1.ogg
 
 
 
